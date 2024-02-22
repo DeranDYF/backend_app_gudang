@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://instagram.com/derandyfzn_"><img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png" alt="Instagram Dyfzn" width="50" height="50"></a>
-<a href="www.linkedin.com/in/deran-deriyana-fauzzan-21a65b251"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" alt="linkedin Dyfzn" width="50" height="50"></a>
+<a href="www.linkedin.com/in/deran-deriyana-fauzzan-21a65b251"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" alt="linkedin Dyfzn" width="30" height="30"></a>
 </p>
 
 
