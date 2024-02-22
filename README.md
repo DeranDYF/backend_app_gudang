@@ -12,3 +12,11 @@
     <li>Jangan lupa untuk membuat database dengan nama "backend_appgudang_db" dan import database di folder "db" pada project</li>
 </ul>
 
+<h1>Account untuk App Backend</h1>
+<br>
+<p>Admin </p>
+<ul>
+    <li>Setelah mengunduh project, Ubah "_vendor" dan "_.env" menjadi "vendor" dan ".env</li>
+    <li>Jangan lupa untuk membuat database dengan nama "backend_appgudang_db" dan import database di folder "db" pada project</li>
+</ul>
+
