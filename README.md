@@ -8,6 +8,9 @@
 </p>
 
 ## About Laravel
-
+<h1>BEBERAPA HAL YANG PERLU DI PERHATIKAN.</h1>
 <ul>
-    <li>1. Test 123</li>
+    <li>Setelah mengunduh project, Ubah "_vendor" dan "_.env" menjadi "vendor" dan ".env</li>
+    <li>Jangan lupa untuk membuat database dengan nama "backend_appgudang_db" dan import database di folder "db" pada project</li>
+</ul>
+
